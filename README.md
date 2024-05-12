@@ -1,1 +1,1 @@
-# JavaScript
+# JavaScript Coding Challenge
